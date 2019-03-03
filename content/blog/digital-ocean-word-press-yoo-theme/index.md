@@ -1,6 +1,7 @@
 ---
 title: Setup Word Press with YooTheme on DigitalOcean
 date: "2019-03-03T11:58:24+08:00"
+description: "Making the world happy"
 ---
 
 This is my first post on my new fake blog! How exciting!
